@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="istockphoto-1249250816-170667a.jpg" alt="Descripción de la imagen" width="400">
+  <img src="IMG_20250302_041824.jpg" alt="Práctica SQL" width="400">
 </p>
